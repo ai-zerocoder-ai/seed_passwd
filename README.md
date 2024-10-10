@@ -1,7 +1,6 @@
-# seed_passwd
- seed_passwd
+### seed_passwd
 
-### Генератор паролей и парольных фраз.
+### Passwords and seed phrases generator. 
 
 ```bash
 pip install -r requirements.txt
